@@ -1,0 +1,15 @@
+---
+layout: page
+title: Digital Humanities
+permalink: /digital-humanities/
+---
+
+{% assign projects_by_section = site["digital-humanities"] | group_by: "section" %}
+{% for section in projects_by_section %}
+  <h2>{{ section.name }}</h2>
+  <ul>
+  {% for project in section.items %}
+    <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}
