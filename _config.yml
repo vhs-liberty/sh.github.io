@@ -33,9 +33,13 @@ collections:
   essays:
     output: true
     permalink: /essays/:path/
+    description: >-
+      A collection of essays on various topics, including digital humanities, technology, and culture.
   digital-humanities:
     output: true
     permalink: /digital-humanities/:path/
+    description: >-
+      A collection of digital humanities projects and research.
 
 header_pages:
   - essays.html

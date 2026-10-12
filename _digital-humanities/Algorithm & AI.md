@@ -4,7 +4,11 @@ section: "CTS 1000"
 layout: page
 ---
 
-An infographic arguing how a rising misunderstanding of algorithms perpetuates misperceptions of AI capabilities by analyzing the definition of an algorithm, and exploring the rebranding of numerous algorithms into an “AI assistant” due to rising media and marketing influences.
+# Remembering Algorithm's Definition Important to Discussions of AI Gaining "Conscience" - An Infographic
+## An infographic arguing how a rising misunderstanding of algorithms perpetuates misperceptions of AI capabilities by analyzing the definition of an algorithm, and exploring the rebranding of numerous algorithms into an “AI assistant” due to rising media and marketing influences.
+### By Amir Benkelai
+
+![Infographic designed like a timeline explaining the difference between algorithms and AI systems]({{ "/images/infographic1.png" | relative_url }})
 
 This infographic was inspired by the timeline style except that it lacks specific dates because the timeline element is used here as a graphical way to neatly present the argument, hence why there is an arrow at the end and a beginning tip.
 
@@ -12,7 +16,8 @@ In terms of information, it had to be rather condensed, in order to fit into the
 
 Last, this infographic was a great application of previous design principles, but also newly learnt knowledge of how to make data visualizations work. Having to pick out specific information, decide what is and isn’t included, which graphical palettes work and don’t work, and varying ratios, all provided greater understanding of how interactions with visualizations like infographics function. As well, there was new learning of how algorithms have shifted over the years, into the new paint label “AI”.
 
-Works Cited
+## Works Cited
+
 Apple Inc. “All Graphics Are from the Apple Pages Shapes Library.” Pages, Digital. Accessed 26 Oct. 2024.
 
 Cassidy, Benjamin. “The Twisted Life of Clippy.” Seattlemet.com, Seattle Met, 23 Aug. 2022, http://www.seattlemet.com/news-and-city-life/2022/08/origin-story-of-clippy-the-microsoft-office-assistant. Accessed 26 Oct. 2024.

@@ -3,7 +3,7 @@ title: "The Title of Your Essay"
 date: 2024-03-31
 layout: page
 ---
-                            The Egg Wars and Blefuscu: A Satiric Description of English Conflicts and French Influence
+The Egg Wars and Blefuscu: A Satiric Description of English Conflicts and French Influence
 
 Johnathan Swift’s satirical art is very prominent across *Gulliver’s Travels* and shifts across each story quite subtly. Focusing on A Voyage to Lilliput, a lot of satire can be seen from the perspective of political conflict, but also on human nature. Perhaps, human nature is most satirised across all four books, and this satirizing is satirised in of itself. Yet here, there will be a greater focus on how this all plays out in A Voyage to Lilliput, with its several uses of satire. Most prominent of them is the “egg war”, a clear criticism on the nature of England’s conflicts of the time, and the references of Blefuscu’s conflicts, where Swift approaches the role of France in England’s conflicts. Another rather important example is the size difference, a showcase of human violence through Gulliver’s thoughts, for example crushing the little Lilliputians or eating one. Hence, such satire, that may be allegorical in nature as well, is used to critic conflict and its causes. Thus, this essay will explore how Swift uses satire in A Voyage to Lilliput to criticise England’s conflicts of the time done through the explicitly detailed “egg wars” and “Blefuscu wars”.
 
