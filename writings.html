@@ -1,0 +1,15 @@
+---
+layout: page
+title: Writings
+permalink: /writings/
+---
+
+{% assign projects_by_section = site["writings"] | group_by: "section" %}
+{% for section in projects_by_section %}
+  <h2>{{ section.name }}</h2>
+  <ul>
+  {% for project in section.items %}
+    <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}

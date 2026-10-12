@@ -30,11 +30,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 collections:
-  essays:
+  writings:
     output: true
-    permalink: /essays/:path/
+    permalink: /writings/:path/
     description: >-
-      A collection of essays on various topics, including digital humanities, technology, and culture.
+      A collection of writings on various topics, including digital humanities, technology, and culture.
   digital-humanities:
     output: true
     permalink: /digital-humanities/:path/
@@ -47,7 +47,7 @@ collections:
       A collection of student-led leadership initiatives and projects.
 
 header_pages:
-  - essays.html
+  - writings.html
   - digital-humanities.html
   - student-leader-initiatives.html
 

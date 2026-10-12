@@ -8,7 +8,9 @@ layout: page
 
 By Amir Benkelai
 
+<div>
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1jQc6AJtGvbpZ_EMidMqCh1HpW2cOQeM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+</div>
 
 As I discussed in previous posts, I am rather fascinated by the history of microwave ovens, once called "radaranges", and other older literature referring to them as the "electric oven" (Zante). So, it felt natural to pick up from the microwave in the timeline project, and map out the progression of where microwave ovens were sold. It turns out, this data is missing from all records, and the only existing remnant is this [website] (https://www.radarange.com/) a person made cataloging some of the more popular ovens of their times based on garage sale finds. For example Raytheon, who, after the first oven in 1947, went on to develop a [series of ovens under the label "Mark"] (https://www.radarange.com/), such as Mark V or Mark 50B, which were sold to restaurants and the likes (Radarange). Tappan would make the RL-1 in 1955, first in-wall oven, but it would be Amana's RR-1 from 1967 that kicks off the consumer market of the microwave oven (Radarange; Osepchuk, "A History of Microwave Heating Applications") . In the process, a series of magnetrons were produced, and continue to be created and expanded upon (Sasaki and Kase).
 
