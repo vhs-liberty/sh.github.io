@@ -1,0 +1,22 @@
+---
+title: "The Magnetron"
+section: "CTS 2010"
+layout: page
+---
+## An exploration of why and how the Magnetron constitutes as a piece of "technology".
+
+By Amir Benkelai
+
+
+
+
+
+Microwave ovens have always fascinated me due to their mystery that comes from how difficult it is to find information about their history or origins that isn't a simple generalisation. However, the microwave has too many parts, each with its own history and cultural influences, in order to be studied to the best possible extent. This means I had to pick a part to focus on, and the part I chose is the magnetron, for the reasons that one, it allows me to explore some component of microwave oven science and history. Second, it means I get to learn more about an engineering device I have never really given much thought to before, and which seems to also be generalised in some areas when looking up information.
+
+![test]({{ "https://upload.wikimedia.org/wikipedia/commons/1/16/Magnetron2.jpg" }})
+
+Now, having chosen the magnetron, the question of how and why it is a "technology" can be answered. This word often brings up images of binary code of 0s and 1s running down a black screen, or maybe even computers, phones, etc., which true these are forms of technology, but they are not the defining factor. In fact, according to the Online Etymology Dictionary, this idea of technology, put under the meaning of "[the] study of mechanical and industrial arts", only dates to 1859. Before that, it was about the "discourse or treatise on an art or the arts", from 1659. To expand on the 1859 definition, there is the contemporary meaning of "the practical application of knowledge especially in a particular area", from the Merriam-Webster dictionary. Referring back to the magnetron, it is a device that very much is the result of the "industrial arts", in the sense that it is also the application of physics, or engineering. This is because the magnetron, first of all, as a word, it comes from "magnetic" and "electron", and, as second, this is because it works by utilising the principles of electron movement in a magnetic environment in a type of cylinder (Hull, 1921). Here, already, are concepts from physics that are being brought together for study in a singular device. Not only, but this then expands beyond just the magnetron as a device, since its very function is something still studied for the purposes of finding applications for it. This was the case of how it ended up in radar systems, and then several decades later in what is now called the microwave oven. Hence, the magnetron is very much a technology, one that has led to the creation of others, because it utilises previous knowledge and is a piece of "industrial art" that is studied to this day, for instance, just see the Journal of Microwave Power and Electromagnetic Energy. As a final note, it should be made known that "art" here is being defined in its latin normative form "ars", meaning "work of art; practical skill; a business, craft,", as per the Online Etymology Dictionary.
+
+Having defined magnetron as a piece of technology, how it will be explored is worth noting too. There are two books I found in my research that will act as guides to finding more information through researching papers, and maybe even old patents. These are, first, the book "The Microwave Oven" by Helen J. Van Zante, and second is the monograph, "The Magnetron", by R. Latham, A. H. King, and L. Rushforth. Something worth noting here, is that information about these authors is scarce, yet fact-checking their information through cross-checking sources shows that their texts are indeed accurate, as they do date from late 20th century. This is why they will act as guides, and not as the main resources, since their information do cite a lot of papers that are not explored in full, which could be useful for further research.
+
+Out of all this research, and from the course itself, I aim to gain a greater understanding of the physics of the device, which will have its ups and downs for sure, as I am aiming to get as specific and technical as possible by exploring papers and reports from physics and/or engineering publications. Second, is to finally satisfy my needs in understanding where this revolutionary device came from, and how its greatest application, the microwave oven, was invented.

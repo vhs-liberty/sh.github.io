@@ -3,10 +3,11 @@ title: "Remembering Algorithm's Definition Important to Discussions of AI Gainin
 section: "CTS 1000"
 layout: page
 ---
-
 # Remembering Algorithm's Definition Important to Discussions of AI Gaining "Conscience" - An Infographic
+
 ## An infographic arguing how a rising misunderstanding of algorithms perpetuates misperceptions of AI capabilities by analyzing the definition of an algorithm, and exploring the rebranding of numerous algorithms into an “AI assistant” due to rising media and marketing influences.
-### By Amir Benkelai
+
+By Amir Benkelai
 
 ![Infographic designed like a timeline explaining the difference between algorithms and AI systems]({{ "/images/infographic1.png" | relative_url }})
 

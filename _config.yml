@@ -40,10 +40,16 @@ collections:
     permalink: /digital-humanities/:path/
     description: >-
       A collection of digital humanities projects and research.
+  student-leader-initiatives:
+    output: true
+    permalink: /student-leader-initiatives/:path/
+    description: >-
+      A collection of student-led leadership initiatives and projects.
 
 header_pages:
   - essays.html
   - digital-humanities.html
+  - student-leader-initiatives.html
 
 # Build settings
 theme: minima
