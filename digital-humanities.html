@@ -2,11 +2,15 @@
 layout: page
 title: Digital Humanities
 permalink: /digital-humanities/
+description: I host work done in the field of digital humanities through my Culture & Technology Studies major during my undergraduate studies.
 ---
+
+<p>{{ page.description }}</p>
 
 {% assign projects_by_section = site["digital-humanities"] | group_by: "section" %}
 {% for section in projects_by_section %}
   <h2>{{ section.name }}</h2>
+  <p>{{ site.data.sections[section.name] }}</p>
   <ul>
   {% for project in section.items %}
     <li><a href="{{ project.url }}">{{ project.title }}</a></li>
