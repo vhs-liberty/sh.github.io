@@ -4,7 +4,7 @@ section: "CTS 2010"
 layout: page
 ---
 
-## An exploration of microwave ovens beginning in 1955 and how it spread thereon.
+### An exploration of microwave ovens beginning in 1955 and how it spread thereon.
 
 By Amir Benkelai
 
