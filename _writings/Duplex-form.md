@@ -1,6 +1,6 @@
 ---
 title: "Comparing Brown’s Duplex Form with Brim-Bell’s Take Using Hoelzer’s Reading"
-section: Essay Samples
+section: Essays
 layout: page
 ---
 ### ENGL 2380 Reading Poetry | University of Guelph | Exploring the duplex form of poetry created by Jericho Brown

@@ -1,6 +1,6 @@
 ---
 title: "The Case for the Accurate Portrayal of 19th Century Black Liberation in Colson Whitehead’s 'The Underground Railroad'"
-section: Essay Samples
+section: Essays
 layout: page
 ---
 

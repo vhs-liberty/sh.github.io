@@ -1,6 +1,6 @@
 ---
 title: "AI Art Belongs in History Museums, Not Art Galleries"
-section: Essay Samples
+section: Essays
 layout: page
 ---
 

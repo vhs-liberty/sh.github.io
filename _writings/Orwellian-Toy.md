@@ -1,6 +1,6 @@
 ---
 title: "The Orwellian Toy & Surveillance of Children Modelled Through George Orwell’s '1984'"
-section: Essay Samples
+section: Essays
 layout: page
 ---
 ### ENGL 2130 ... | University of Guelph | Assignment Description here

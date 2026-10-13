@@ -1,6 +1,6 @@
 ---
 title: "How the Violence of the Slavery Institute Found in Frederick Douglass’s Narratives is Better Written in the White Antebellum Perspective"
-section: Essay Samples
+section: Essays
 layout: page
 ---
 ### ENGL 2080 ... | University of Guelph | Assignment Description here

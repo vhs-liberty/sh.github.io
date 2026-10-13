@@ -1,6 +1,6 @@
 ---
 title: "Understanding the History of African American English Vernacular Through 'Get Out'"
-section: Essay Samples
+section: Essays
 layout: page
 ---
 ### ENGL 2120 ... | University of Guelph | Assignment Description here

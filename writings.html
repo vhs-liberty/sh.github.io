@@ -4,9 +4,12 @@ title: Writings
 permalink: /writings/
 ---
 
+<p>{{ page.description }}</p>
+
 {% assign projects_by_section = site["writings"] | group_by: "section" %}
 {% for section in projects_by_section %}
   <h2>{{ section.name }}</h2>
+  <p>{{ site.data.sections[section.name] }}</p>
   <ul>
   {% for project in section.items %}
     <li><a href="{{ project.url }}">{{ project.title }}</a></li>
