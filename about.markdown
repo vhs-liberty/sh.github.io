@@ -21,7 +21,7 @@ I have developed a passion for essay writing during the course of my undergradua
 
 ## Overview of Career Experience
 
-I have been involved on campus for all 4 years of my study. I developed skills in social media, governance, administrative support, files management, correspondence management, managing teams, Google Suite and Microsoft Office, writing support, event management, project management, and journalism, to name some. My best accomplishments are listed in [Student Leader Accomplishments]({% link student-leader-accomplishments.md %}).
+I have been involved on campus for all 4 years of my study. I developed skills in social media, governance, administrative support, files management, correspondence management, managing teams, Google Suite and Microsoft Office, writing support, event management, project management, and journalism, to name some. I am working towards building a page for my best accomplishments.
 
 I work in student clubs, union, and government. I support first year students with their writing needs as a [Peer Helper](https://www.uoguelph.ca/studentexperience/peer) Writing Consultant in [Writing Services of the McLaughlin Library](https://www.lib.uoguelph.ca/using-library/appointment-booking/). I welcomed first year students through events from student clubs and government I supported, but also from volunteering as an Orientation Week volunteer. My interactions with undergraduate students made me realise a passion I never had, that of working with undergraduate students.
 
