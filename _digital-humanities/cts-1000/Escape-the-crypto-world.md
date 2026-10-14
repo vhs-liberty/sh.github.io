@@ -8,11 +8,7 @@ By Amir Benkelai
 
 The final project takes the form of a "Powerpoint Game", a byproduct of a short written essay (see below) that acted as a script with which the game itself could be designed.
 
-To play the game, you may either: 
-
-open the .pptx file, head over to the "Slide Show" section, click "Play from Start", and enjoy the experience, 
-
-or click on the small icon in the bottom right corner of the presentation below, which will open a new window, where you will want to click on the small icon in the bottom far right corner saying "Play Slideshow", and play from your browser.
+<iframe src="https://1drv.ms/p/c/640e72652a92eb3b/IQTerZn0ui0eTKfdfqIbe_m0ATx3Iq6jGD1dixrwc7Gk5nU?em=2&amp;wdAr=1.7792494481236203" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 #### Essay:
 

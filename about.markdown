@@ -1,22 +1,136 @@
 ---
 layout: home
-title: Amir Benkelai
+title: About Amir Benkelai
 permalink: /
 ---
+## University Studies & Research Interests
 
-I am an undergraduate student at the University of Guelph double majoring in English and Culture & Technology Studies with experience with adminstrating social media, managing sensitive and confidential documents, writing meeting minutes, and supporting governance of organizations. My long-term goal is to become an Administrative Librarian.
+I am an undergraduate student at the University of Guelph pursuing a Bachelor of Arts, Honors, with a double major in English and Culture & Technology Studies. The latter is an intensive undergraduate study in the interdisciplinary field of digital humanities, which is a branch of traditional humanities aiming to make use of computer tools in humanities work, but also in using tools of traditional humanities in analysing, and theorising, the digital world. 
 
-I have been administrating social media for 3 years and supporting governance of student clubs for 2 years. I have handled records, coordinated communications, and provided front-line academic and student services. These experiences come from my 3 years of on-campus volunteering in student clubs, student unions, the library (as a Peer Helper), admission services, and student experience. This also includes volunteering with The Ontarion Newspaper and CFRU Radio Station, the latter of which I was a volunteer library page and eventually became volunteer Board Director. From these involvements I developed strong administrative literacy including how to handle sensitive information and an understanding of non-profit governance processes.
+*Please note that the definition of digital humanities is debated, so the definition I give here is a general picture. Each scholar within the field hold their own idea of what digital humanities are.*
 
-In terms of library and information environments, I have strong organization skills including management of files as library page and Board Director. I intend to get an MLIS to further pursue library work in administration.
+I have developed a passion for essay writing during the course of my undergraduate study, and I have a sample of my best work viewable here in [Writings]({% link writings.html %}). My research interests developed from the readings of the varying courses I had the opportunity to take, and unfortunately, I have not had many opportunities to explore my interests. These are:
+<br>
+<li>Play Theory.</li>
+<li>Toy Studies.</li>
+<li>Children's Literature.</li>
+<li>Medieval Literature.</li>
+<li>Curatorial Studies.</li>
+<li>Colonialism & Patriarchy as they show up in the above stated fields.</li>
+<br>
 
-I am also passionate about research, and intend to pursue research pathways with my MLIS, with research interests including Medieval Literature with a focus on medieval material culture children's narratives, Culinary History with a focus on domestic technology, Feminist Theory, Space in terms of its use, and Poetics with a focus on narrative poetry.
+## Overview of Career Experience
 
-Credit Where Credit is Due
+I have been involved on campus for all 4 years of my study. I developed skills in social media, governance, administrative support, files management, correspondence management, managing teams, Google Suite and Microsoft Office, writing support, event management, project management, and journalism, to name some. My best accomplishments are listed in [Student Leader Accomplishments]({% link student-leader-accomplishments.md %}).
 
-This website was constructed using both self-research and Claude AI. Research was used to support learning Ruby (including Liquid), HTML, CSS, and Markdown, and AI supported this process by explaining the more confusing technical parts, including helping where research failed to help.
+I work in student clubs, union, and government. I support first year students with their writing needs as a [Peer Helper](https://www.uoguelph.ca/studentexperience/peer) Writing Consultant in [Writing Services of the McLaughlin Library](https://www.lib.uoguelph.ca/using-library/appointment-booking/). I welcomed first year students through events from student clubs and government I supported, but also from volunteering as an Orientation Week volunteer. My interactions with undergraduate students made me realise a passion I never had, that of working with undergraduate students.
 
-Below is a list of general resources I used in making this website:
+I lead and support the governance of the [CFRU radio station](www.cfru.ca) on campus for 2 years, joining their Board of Directors in December 2024, after having volunteered in the Music Library as a library page.
 
+Because student organizations are modelled after the non-profit corporation I have specialised my leadership, administrative, and governance skills within the non-profit industry of Canada. Whilst I have not had many direct professional experiences, what I offer in terms of transferrable skills is not what you expect from a typical graduate of an undergraduate program. I am always looking for new opportunities, and if you are interested in a chat, email me at mokraneamir23@gmail.com or message me on [LinkedIn](www.linkedin.com/in/amir-benkelai-3867362aa).
 
-Below is a list of forums I consulted, which I provide because, by and large, online coding forums make up the bulk of AI's ability to code:
+# Credit Where Credit is Due
+
+This website was constructed using both independent research and [Claude AI](https://claude.ai/). Research was used to support learning Ruby (including Liquid and Jekyll as a static site generator), YML, HTML, CSS, SCSS, and Markdown. AI supported this process by explaining how to get through the more confusing technical parts, including helping where research was insufficient to resolve a problem.
+
+I include a list of my resources and consulted forums below as proof that this is not a vibe coded static site and that learning was a major component in producing the website, but also make this website as transparent as possible by giving credit where credit is due. This is my first ever web development project proper, as usually I have relied on Content Management Systems to get the job done, such as with Google Sites. It is also my first project with which I used GitHub. You can find the GitHub repository for this project here.
+
+## Resources Utilised (*as comprehensive as is possible and not in any particular order*)
+
+**Writing Markdown:**
+<li> 
+    <a href="https://www.markdownguide.org/basic-syntax/">https://www.markdownguide.org/basic-syntax/ .</a> 
+</li>
+<li> 
+    <a href="https://www.markdownguide.org/hacks/#overview">https://www.markdownguide.org/hacks/#overview .</a> 
+</li>
+
+<br>
+
+**CSS & HTML Support:**
+<li>
+    <a href="https://www.w3schools.com/html/default.asp">I am citing the entirety of W3Schools' page on HTML to avoid creating a massive list of the various HTML tags I used W3Schools as a resource for.</a>
+</li>
+
+<li>
+    <a href="https://www.w3schools.com/css/default.asp">I am citing the entirety of W3Schools' page on CSS to avoid creating a massive list of the various CSS tags I used W3Schools as a resource for.</a>
+</li>
+
+<li>
+    <a href="https://www.w3schools.com/css/css_image_gallery.asp">Special mentions to this tutorial page as it helped guide the creation of image grids on the website.</a>
+</li>
+
+<br>
+
+**CSS vs SCSS:**
+<li>
+    <a href="https://www.geeksforgeeks.org/css/what-is-the-difference-between-css-and-scss/">Claude AI helped me build a SCSS file to centre-align the navigation bar, and I used this article to learn what SCSS is in comparison to CSS.</a>
+</li>
+<br>
+
+**Installing Jekyll:**
+<li>
+    <a href="https://jekyllrb.com/docs/installation/macos/">The Jekyll installation guide was a starting point, but I ran into errors with the Terminal, where I used Claude AI to troubleshoot.</a>
+</li>
+
+<br>
+
+**Understanding Git & GitHub:**
+<li>
+    <a href="https://en.wikipedia.org/wiki/Git">Quick overview of what git is.</a>
+</li>
+<li>
+    <a href="https://www.geeksforgeeks.org/git/git-vs-github/">Understanding Git against GitHub.</a>
+</li>
+<li>
+    <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository">Understanding Git Repositories.</a>
+</li>
+
+<br>
+
+**Understanding Liquid:**
+<li>
+    <a href="https://cloudcannon.com/tutorials/jekyll-tutorial/introduction-to-liquid/">I struggled to find good sources on Liquid, but this one helped me get a sense of what Liquid is, and a bit on how it works.</a>
+</li>
+
+<br>
+
+**Understanding Collections:**
+<li>
+    <a href="https://emmatheeng.github.io/projects/blog_setup/blog-categories.html#what-are-post-categories">Understanding Jekyll categories and getting comfortable with frontmatter and Liquid.</a>
+</li>
+<li>
+    <a href="https://jekyllrb.com/docs/collections/">Understanding what collections are after Claude AI suggested them as another option instead of categories.</a>
+</li>
+
+<br>
+
+**Understanding YML:**
+<li>
+    <a href="https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/">https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/</a>
+</li>
+
+<br>
+
+**_zsh & _bash:**
+<li>
+    <p> My terminal suggested installing _zsh, and <a href="https://www.reddit.com/r/learnprogramming/comments/qw5bw3/whats_the_difference_between_zsh_and_bash/"> after reading that there are not many differences in this thread</a>, I decided to continue with _bash. I also consulted the <a href="https://en.wikipedia.org/wiki/Z_shell"> _zsh Wikipedia page.</a> </p>
+</li>
+
+<br>
+
+**Linking a Markdown file inside another Markdown file:**
+<li>
+    <a href="https://talk.jekyllrb.com/t/how-to-create-link-to-an-md-page-in-same-subdirectory-newbie/8014">https://talk.jekyllrb.com/t/how-to-create-link-to-an-md-page-in-same-subdirectory-newbie/8014 .</a>
+</li>
+
+<li>
+    <a href="https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file">https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file .</a>
+</li>
+
+<br>
+
+**Removing and keeping .DS_Store out from the git repository:**
+<li>
+    <a href="https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file">https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file .</a>
+</li>

@@ -37,7 +37,6 @@ header_pages:
   - writings.html
   - digital-humanities.html
   - graphic-design.md
-  - student-leader-accomplishments.md
 
 # Build settings
 theme: minima
