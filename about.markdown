@@ -25,9 +25,9 @@ I have been involved on campus for all 4 years of my study. I developed skills i
 
 I work in student clubs, union, and government. I support first year students with their writing needs as a [Peer Helper](https://www.uoguelph.ca/studentexperience/peer) Writing Consultant in [Writing Services of the McLaughlin Library](https://www.lib.uoguelph.ca/using-library/appointment-booking/). I welcomed first year students through events from student clubs and government I supported, but also from volunteering as an Orientation Week volunteer. My interactions with undergraduate students made me realise a passion I never had, that of working with undergraduate students.
 
-I lead and support the governance of the [CFRU radio station](www.cfru.ca) on campus for 2 years, joining their Board of Directors in December 2024, after having volunteered in the Music Library as a library page.
+I lead and support the governance of the [CFRU radio station](https://www.cfru.ca) on campus for 2 years, joining their Board of Directors in December 2024, after having volunteered in the Music Library as a library page.
 
-Because student organizations are modelled after the non-profit corporation I have specialised my leadership, administrative, and governance skills within the non-profit industry of Canada. Whilst I have not had many direct professional experiences, what I offer in terms of transferrable skills is not what you expect from a typical graduate of an undergraduate program. I am always looking for new opportunities, and if you are interested in a chat, email me at mokraneamir23@gmail.com or message me on [LinkedIn](www.linkedin.com/in/amir-benkelai-3867362aa).
+Because student organizations are modelled after the non-profit corporation I have specialised my leadership, administrative, and governance skills within the non-profit industry of Canada. Whilst I have not had many direct professional experiences, what I offer in terms of transferrable skills is not what you expect from a typical graduate of an undergraduate program. I am always looking for new opportunities, and if you are interested in a chat, email me at mokraneamir23@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/amir-benkelai-3867362aa).
 
 # Credit Where Credit is Due
 
